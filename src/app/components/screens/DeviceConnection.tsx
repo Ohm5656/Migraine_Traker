@@ -135,13 +135,7 @@ export function DeviceConnection() {
           <div className="bg-[#3b82f6]/20 p-2 rounded-lg text-[#60a5fa]">
             <AlertCircle className="w-5 h-5" />
           </div>
-          <div>
-            <h4 className="text-white text-sm mb-1">คำแนะนำ</h4>
-            <p className="text-[#9ca3af] text-xs">
-              สวมใส่ตลอด 24 ชั่วโมงเพื่อผลลัพธ์ที่ดีที่สุด ชาร์จเมื่อแบตเตอรี่ต่ำกว่า 20% 
-              ทำความสะอาดเซ็นเซอร์ส���ปดาห์ละครั้งด้วยผ้านุ่ม
-            </p>
-          </div>
+      
         </div>
       </div>
     </motion.div>
