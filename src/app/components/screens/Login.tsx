@@ -72,10 +72,6 @@ export function Login() {
         สร้างบัญชีใหม่
       </Link>
 
-      {/* Footer */}
-      <p className="text-[#9ca3af] text-xs text-center mt-8">
-        ข้อมูลสุขภาพของคุณได้รับการปกป้องอย่างปลอดภัย
-      </p>
     </motion.div>
   );
 }
